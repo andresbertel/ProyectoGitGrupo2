@@ -6,5 +6,10 @@
     <StackLayout>
         <Button Text="Page 1"
                 Clicked="Button_Clicked"/>
+
+        <Button Text="PAGINA 2" Clicked="Button_Clicked2">
+            
+        </Button>
+        
     </StackLayout>
 </ContentPage>
