@@ -4,6 +4,7 @@
              x:Class="TestGitGrupo2.MainPage">
 
     <StackLayout>
-        
+        <Button Text="Page 1"
+                Clicked="Button_Clicked"/>
     </StackLayout>
 </ContentPage>
